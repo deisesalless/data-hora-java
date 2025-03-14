@@ -1,3 +1,5 @@
+package obsoleto;
+
 import java.util.Date;
 
 public class ExemploDate {
